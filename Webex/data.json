@@ -1,0 +1,69 @@
+{
+    "GROUP_ALPHA": [{
+            "name": "Vincent Cassata",
+            "email": "vincent.cassata@student.bxl.be"
+        },
+        {
+            "name": "Giovanni Di Tulio",
+            "email": "Giovanni.ditullio@student.bxl.be"
+        },
+        {
+            "name": "Milan Vandevelde",
+            "email": "milan.vandevelde@student.bxl.be"
+        },
+        {
+            "name": "Tomas Vertessen",
+            "email": "tomas.vertessen@student.bxl.be"
+        },
+        {
+            "name": "Mehdi Dahli",
+            "email": "mehdi.dahli@student.bxl.be"
+        }
+    ],
+    "GROUP_KAPPA": [{
+            "name": "Ur Salangpour",
+            "email": "ur.salangpour@student.bxl.be"
+        },
+        {
+            "name": "Mon Gallin",
+            "email": "mon.gallin@student.bxl.be"
+        },
+        {
+            "name": "Artur Ikiya",
+            "email": "artur.lkiya@student.bxl.be"
+        },
+        {
+            "name": "Bram Vanbever",
+            "email": "bram.vanbever@student.bxl.be"
+        },
+        {
+            "name": "JR Ibara",
+            "email": "jr.ibara@student.bxl.be"
+        }
+    ],
+    "GROUP_DELTA": [{
+            "name": "Jona Ferbiest",
+            "email": "jona.ferbiest@student.bxl.be"
+        },
+        {
+            "name": "Bart Siperius",
+            "email": "bart.siperius@student.bxl.be"
+        },
+        {
+            "name": "Joren Huysegoms",
+            "email": "joren.huysegoms2@student.bxl.be"
+        },
+        {
+            "name": "Sam Bulduk",
+            "email": "sam.bulduk@student.bxl.be"
+        },
+        {
+            "name": "Ferre Van Malder",
+            "email": "ferre.vanmalder@student.bxl.be"
+        },
+        {
+            "name": "Mikail Defossez",
+            "email": "mikail.defossez@student.bxl.be"
+        }
+    ]
+}
